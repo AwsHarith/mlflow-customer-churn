@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/harit/PycharmProjects/mlflow-customer-churn/src/mlruns/0/models/m-af4c4bd6e8e24234905bca1e14d050da/artifacts
+creation_timestamp: 1780615358200
+experiment_id: '0'
+last_updated_timestamp: 1780615361724
+model_id: m-af4c4bd6e8e24234905bca1e14d050da
+model_type: null
+name: model
+source_run_id: 96546798fef64695943b413fcd3fca81
+status: 2
+status_message: null

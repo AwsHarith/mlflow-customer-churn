@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/harit/PycharmProjects/mlflow-customer-churn/src/mlruns/0/4784a6ec71c34374b7eca3504a113f46/artifacts
+end_time: 1780617685409
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4784a6ec71c34374b7eca3504a113f46
+run_name: classy-smelt-656
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780617681245
+status: 3
+tags: []
+user_id: harit

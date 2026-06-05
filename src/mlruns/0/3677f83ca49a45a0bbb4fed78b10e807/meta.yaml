@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/harit/PycharmProjects/mlflow-customer-churn/src/mlruns/0/3677f83ca49a45a0bbb4fed78b10e807/artifacts
+end_time: 1780615541671
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3677f83ca49a45a0bbb4fed78b10e807
+run_name: painted-bird-440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780615538096
+status: 3
+tags: []
+user_id: harit

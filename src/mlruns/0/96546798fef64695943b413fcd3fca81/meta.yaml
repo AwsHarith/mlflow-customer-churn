@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/harit/PycharmProjects/mlflow-customer-churn/src/mlruns/0/96546798fef64695943b413fcd3fca81/artifacts
+end_time: 1780615361731
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 96546798fef64695943b413fcd3fca81
+run_name: rambunctious-ox-425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780615357828
+status: 3
+tags: []
+user_id: harit
